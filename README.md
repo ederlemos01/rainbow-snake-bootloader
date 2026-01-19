@@ -6,6 +6,7 @@
 ---
 
 A Snake game developed in x86 Assembly, designed to run directly in the boot sector of a Legacy BIOS in Real Mode
+
 ---
 
 ## How to Build and Run
